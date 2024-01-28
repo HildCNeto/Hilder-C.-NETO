@@ -1,0 +1,112 @@
+#EXTM3U
+7#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="MENU",Ultima Atualização.: 17/01 - 12:07
+https://s3.us-west-1.wasabisys.com/apkformiga/Novo%20projeto.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="MENU",Não usem no kodi
+https://s3.us-west-1.wasabisys.com/apkformiga/Novo%20projeto.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="MENU",Todas os canais SEM TRAVAS  24hs: 37-9.91253261 zapDOFormiga
+https://s3.us-west-1.wasabisys.com/apkformiga/Novo%20projeto.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CaeoLuR.jpeg" group-title="Extra FORMIGAtv",Canal Ricos
+https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 01
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 02
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 03
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 04
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 05
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 06
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 07
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 08
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 09
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 10
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 11
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236737.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/5369.png" group-title="ESPORTES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",COMBATE 
+http://209.222.97.92:16493
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/197.png" group-title="PREMIERE ESPORTES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",PREMIERE 2 
+http://185.150.190.225:16464
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 2 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/197.png" group-title="PREMIERE ESPORTES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",PREMIERE 3
+http://185.150.190.225:16468
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 2 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/197.png" group-title="PREMIERE ESPORTES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",PREMIERE 4
+http://185.150.190.225:16472
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 2 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/197.png" group-title="PREMIERE ESPORTES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",PREMIERE 5
+http://185.150.190.225:16476
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 2 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/197.png" group-title="PREMIERE ESPORTES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",PREMIERE 6
+http://185.150.190.225:16482
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/16739.png" group-title="VARIEDADES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",VIVA
+http://199.127.60.83:16884
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/5902.png" group-title="DOCUMENTÁRIOS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",ANIMAL PLANET
+http://199.127.60.83:16192
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/4130.png" group-title="INFANTIS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",CARTOONITO 
+http://199.127.60.83:14682
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/5930.png" group-title="INFANTIS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",CARTOON NETWORK 
+http://199.127.60.83:14687/
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/247.png" group-title="FILMES E SERIES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",FX
+http://199.127.60.83:16043/
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/A&E.png" group-title="FILMES E SERIES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",A&E 
+http://199.127.60.83:16002/
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/Ou5wm3c.png" group-title="FILMES E SERIES" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",AMC
+http://199.127.60.83:16004
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDb" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/globo_new.png" group-title="ABERTOS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",GB hd
+http://199.127.60.83:16020
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt_new.png" group-title="ABERTOS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",SBT 
+http://209.222.97.92:16173
+#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS 4K" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",GLOBO NEWS
+http://209.222.97.92:16436
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",RedeVIVA
+http://185.150.190.225:14071
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ABERTOS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",FASHION TV 
+http://185.150.190.225:14961
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDb" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/globo_new.png" group-title="ABERTOS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",GB hd
+http://15.235.55.115:14107
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt_new.png" group-title="ABERTOS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",SBT  HD
+http://199.127.60.83:16170
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:d..
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musict..
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/5154.png" group-title="RELIGIOSOS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",TV EVANGELIZAR 
+https://5f593df7851db.streamlock.net/evangelizar/tv/p..
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDb" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/globo_new.png" group-title="ABERTOS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",GB GLOBO BA HD
+https://transcoder.proxy.tokplay.com.br:443/videos/RE..
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDb" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/globo_new.png" group-title="ABERTOS" tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",GB GLOBO NSC HD
+http://191.37.250.169:8801/live/NSC/720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",NICK
+http://15.235.55.115:14542
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",NICK
+http://15.235.55.115:14544
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",A&E
+http://187.95.95.243/AE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",MTV
+http://187.95.95.243/mtv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",AXN
+http://cdn2.connectbr.com.br/History/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",Nick
+http://cdn2.connectbr.com.br/Nickelodeon/index.m3u8.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",Paramount
+http://cdn2.connectbr.com.br/paramount/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",Cinecanal
+http://cdn2.connectbr.com.br/cinecanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",BandNews
+http://cdn2.connectbr.com.br/Band-News/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",BandSports
+http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",Arte 1
+http://187.95.95.243/ArteHD/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="Extra FORMIGAtv",H2
+http://187.95.95.247/h2/index.m3u8
+
+
+
